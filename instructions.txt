@@ -2,3 +2,5 @@ Adding instructions for the repository.
 This is line 2 of the file.
 
 Please refer to the website for instructions.
+
+Change made sample branch.
